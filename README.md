@@ -72,7 +72,7 @@
                 height="137px"
                 align="center"
                 alt="Top Language"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=raexera&layout=compact&line_height=21&hide_border=true&theme=tokyonight"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=raexera&hide_progress=true&layout=compact&line_height=21&hide_border=true&theme=tokyonight"
             /></a>
           </td>
         </tr>
