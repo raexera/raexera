@@ -38,7 +38,7 @@
         [ <a href="https://raexera.me/about">about me</a> .
         <a href="https://raexera.me/projects">projects</a> .
         <a href="mailto:raexera@gmail.com">contact</a> .
-        <a href="https://github.com/sponsors/raexera">sponsor</a>]
+        <a href="https://github.com/sponsors/raexera">sponsor</a> ]
       </samp>
     </p>
     <h2></h2>
