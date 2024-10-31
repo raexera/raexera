@@ -16,7 +16,6 @@
         src="https://readme-typing-svg.demolab.com?font=Iosevka&size=16&pause=1000&color=9D7CD8&center=true&vCenter=true&width=435&lines=I+code+efficient+and+elegant+programs"
         alt="Typing SVG"
       />
-      <br />
     </samp>
   </p>
   <p align="right">
@@ -24,7 +23,6 @@
       <samp>」</samp>
     </strong>
   </p>
-  <br />
   <details>
     <summary>
       <samp>
