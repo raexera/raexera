@@ -43,21 +43,29 @@
     </p>
     <h2></h2>
     <br />
-    <div>
-      <a href="#--------">
-        <img
-          align="center"
-          alt="GitHub Stats"
-          src="https://github-readme-stats.vercel.app/api?username=raexera&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"
-        />
-      </a>
-      <a href="#--------">
-        <img
-          align="center"
-          alt="Top Language"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=raexera&hide_progress=true&layout=compact&hide_border=true&langs_count=10&theme=tokyonight"
-        />
-      </a>
+    <div align="center">
+      <table>
+        <tr>
+          <td>
+            <a href="#--------">
+              <img
+                align="center"
+                alt="GitHub Stats"
+                src="https://github-readme-stats.vercel.app/api?username=raexera&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"
+              />
+            </a>
+          </td>
+          <td>
+            <a href="#--------">
+              <img
+                align="center"
+                alt="Top Language"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=raexera&hide_progress=true&layout=compact&hide_border=true&langs_count=10&theme=tokyonight"
+              />
+            </a>
+          </td>
+        </tr>
+      </table>
     </div>
   </details>
 </div>
