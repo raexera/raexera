@@ -51,8 +51,6 @@
           src="https://github-readme-stats.vercel.app/api?username=raexera&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"
         />
       </a>
-    </div>
-    <div>
       <a href="#--------">
         <img
           align="center"
