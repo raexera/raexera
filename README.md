@@ -55,7 +55,7 @@
         <img
           align="center"
           alt="Top Language"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=raexera&hide_progress=true&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=raexera&hide_progress=true&layout=compact&hide_border=true&langs_count=10&theme=tokyonight"
         />
       </a>
     </div>
