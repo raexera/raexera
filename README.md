@@ -31,8 +31,8 @@
         <b>More Info</b>
       </samp>
     </summary>
-    <h2></h2>
     <br />
+    <h2></h2>
     <p align="center">
       <samp>
         [ <a href="https://raexera.me/about">about me</a> .
